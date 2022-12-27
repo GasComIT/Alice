@@ -1,0 +1,54 @@
+{
+  "name": "alice_player",
+  "version": "1.0.0",
+  "description": "Discord music bot built with discord.js 13.1.0",
+  "main": "🍑ᴀʟɪᴄᴇ💃🏽/ᴀʟɪᴄᴇ🍃ʍʊֆɨƈ.js",
+  "author": "GasComIT",
+  "private": true,
+  "homepage":"https://github.com/GasComIT/Alice",
+  "repository": {
+    "type": "git", "url":"git+https://github.com/GasComIT/Alice.git"
+  },
+  "bugs": {
+ "url":"https://github.com/GasComIT/Alice/issues"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "@discordjs/collection": "^0.1.6",
+    "@discordjs/form-data": "^3.0.1",
+    "@discordjs/opus": "^0.5.3",
+    "abort-controller": "^3.0.0",
+    "array-move": "^3.0.1",
+    "discord.js": "^13.1.0",
+    "dotenv": "*",
+    "express": "*",
+    "ffmpeg-static": "*",
+    "get-video-id": "^3.4.1",
+    "lyrics-finder": "^21.0.5",
+    "node": "^16.10.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.13",
+    "prism-media": "^1.2.9",
+    "python-shell": "^3.0.0",
+    "setimmediate": "^1.0.5",
+    "simple-youtube-api": "^5.1.1",
+    "soundcloud-downloader": "^1.0.0",
+    "string-progressbar": "^1.0.4",
+    "tweetnacl": "^1.0.3",
+    "ws": "^7.4.4",
+    "ytdl-core": "^4.9.1",
+    "ytdl-core-discord": "^1.3.1"
+  },
+  "scripts": {
+    "start": "🍑ᴀʟɪᴄᴇ💃🏽/ᴀʟɪᴄᴇ🍃ʍʊֆɨƈ.js"
+  },
+  "keywords": [
+    "discord",
+    "music",
+    "youtube",
+    "alice"
+  ],
+  "license": "GPL-3.0-or-later"
+}

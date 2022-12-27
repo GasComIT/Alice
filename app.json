@@ -1,0 +1,18 @@
+{
+    "logo": "https://i.postimg.cc/D0rM4dhG/image.png",
+    "name": "❣️『 ᴅɪꜱᴄᴏʀᴅ ᴍᴜꜱɪᴄ ʙᴏᴛ: Alice🍀PLAYER 』❣️",
+    "repository": "https://github.com/GasComIT/Alice.git",
+    "stack": "container",
+    "description": "❣️Alice🍀player❣️ \n❄️ 𝘗𝘭𝘢𝘺 𝘢𝘯𝘺 𝘮𝘶𝘴𝘪𝘤 𝘪𝘯 𝘺𝘰𝘶𝘳 discord channel. 𝘠𝘰𝘶 𝘸𝘪𝘭𝘭 𝘩𝘢𝘷𝘦 𝘵𝘰 make bot admin 𝘵𝘰 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘣𝘰𝘵 𝘰𝘳 𝘨𝘦𝘵 𝘦𝘳𝘳𝘰𝘳𝘴.",
+    "website": "https://t.me/gascomit",
+    "keywords": [
+        "discord",
+        "voice",
+        "music",
+        "musicbot",
+        "bot",
+        "discordjs",
+        "nodejs",
+        "alice"
+    ]
+}
