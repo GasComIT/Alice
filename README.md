@@ -4,7 +4,7 @@
 
 ### 💃🏽『 ᴅɪꜱᴄᴏʀᴅ ᴍᴜꜱɪᴄ ʙᴏᴛ: Alice 』🍑
 
-<p align="centre"><img  width="100%" height="100%" img src="https://i.postimg.cc/sXLzq8k1/Alice.jpg" /></p>
+
 <p align="left"><img  width="50%" height="50%" img src="https://i.postimg.cc/sXLzq8k1/Alice.jpg" /></p>
 
 ### ❓ ​᭙​ꫝ​ꪗ ​ꪑꪖ𝘬​ꫀ 𝓽​ꫝ𝓲𝘴 ​᥇​ꪮ𝓽 ? 💃🏽
