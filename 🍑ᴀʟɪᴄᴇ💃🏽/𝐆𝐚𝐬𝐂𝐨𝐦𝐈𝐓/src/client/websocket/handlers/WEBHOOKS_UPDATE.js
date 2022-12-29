@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = (client, packet) => {
-  client.actions.ChannelCreate.handle(packet.d);
+  client.actions.WebhooksUpdate.handle(packet.d);
 };
