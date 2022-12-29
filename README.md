@@ -26,7 +26,7 @@
 
 ### 〽️ MΣΣƬ US ӨЯ CΉΣCK ӨƬΉΣЯ BӨƬS
 
-- [![Generic badge](https://img.shields.io/badge/❣🍑Alice_Priority_Speaker💃🏽-red.svg)](https://discord.com/api/oauth2/authorize?client_id=893513011627692072&permissions=8&scope=bot)
+- [![Generic badge](https://img.shields.io/badge/🍑Alice_Priority_Speaker💃🏽-red.svg)](https://discord.com/api/oauth2/authorize?client_id=893513011627692072&permissions=8&scope=bot)
   𝙳𝚒𝚛𝚎𝚌𝚝𝚕𝚢 𝚞𝚜𝚎 𝚃𝚑𝚎 𝙱𝚘𝚝 𝚒𝚗 Discord
 - [![Generic badge](https://img.shields.io/badge/GasComIT-Vïå_Alice_ßð†-orange.svg)](https://t.me/gascomit_bot) 𝘛𝘶𝘳𝘯 𝘰𝘯 𝘣𝘰𝘵 𝘪𝘯 𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘢𝘯𝘥 𝘵𝘺𝘱𝘦 /us
 
