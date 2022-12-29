@@ -21,7 +21,7 @@
 ❄️ 𝘠𝘰𝘶 𝘸𝘪𝘭𝘭 𝘩𝘢𝘷𝘦 𝘵𝘰 make bot admin 𝘵𝘰 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘣𝘰𝘵 𝘰𝘳 𝘨𝘦𝘵 𝘦𝘳𝘳𝘰𝘳𝘴.
 
 ```
-<p align="left"><img img src="https://i.postimg.cc/sXLzq8k1/Alice.jpg" /></p>
+
 
 
 ### 〽️ MΣΣƬ US ӨЯ CΉΣCK ӨƬΉΣЯ BӨƬS
