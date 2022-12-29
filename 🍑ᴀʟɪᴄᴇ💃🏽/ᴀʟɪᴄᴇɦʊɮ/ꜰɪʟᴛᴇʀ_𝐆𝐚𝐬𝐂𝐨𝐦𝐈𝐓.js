@@ -292,7 +292,7 @@ Restart **queue** and **filter** will be applied.`)
           .setDescription(`**ᴀʟɪᴄᴇ❣️ʍʊֆɨƈ** has encountered an error.
 
 Please report to either 
-🔰**In Discord channel** = https://discord.gg/ucPpXWFK
+🔰**In Discord channel** = https://discord.gg/xx
 or
 🔰**In telegram group** = https://t.me/gascomit
 
